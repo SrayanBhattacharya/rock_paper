@@ -1,1 +1,1 @@
-# rock_paper
+Languages used are HTML5, CSS and JAVASCRIPT
